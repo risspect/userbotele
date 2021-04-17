@@ -159,7 +159,7 @@
     },
     "ALIVE_NAME": {
       "description": "Nama untuk menunjukan pesan .alive",
-      "value": "4NY4"
+      "value": "4NY4",
       "required": false
     },
     "LORD_TEKS_KUSTOM": {
