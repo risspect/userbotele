@@ -16,14 +16,17 @@
   "env": {
     "API_KEY": {
       "description": "Dapatkan Api Key di web my.telegram.org.",
+      "value": "1560801",
       "required": true
     },
     "API_HASH": {
       "description": "Dapatkan Api Hash Di Web my.telegram.org.",
+      "value": "539bda4794a4dfc65ae400d2850ba30e",
       "required": true
     },
      "STRING_SESSION": {
       "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya @liualvinas di telegram",
+      "value": "1BVtsOJkBuyPQtl5HgmxN8rldFkDsOPm1r_s5NIrB7jObCHm2eRpagnC7cLCCRuSO0_XftTsYegGTgP7dT5ZecgoW9nCFIWOQl2au3hCK5D0xY-6ERhZrVRlJbohi8mtZVpKB3h6AXAKJv9W8SmCGdagc7e9deZGVdHCp2Ggx7sd_gMqUbv8Nhb3CB6O7CQ4VSpYD04sQg3q5DZStXD9isrqhOp2662zh47kuvvi-5qncHMh9KqlXUlEkYjls3ozPiu9nZ4Pq28eEk3jdw14Vn6liYmh4zWGwzp5oOdF-5LVLa6DERt_AJKQmJdG_KcjjIcEYZjS-gAK0u0WrxDNHuG6Bk_shupk=",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -32,7 +35,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Heroku API KEY mu, dapatkan dari web 'https://dashboard.heroku.com/account'",
-      "value": "Check Di Heroku Dashboard Mu",
+      "value": "59ee2759-2136-43ce-99b8-0e5694c5bc90",
       "required": true
     },
     "BOTLOG": {
@@ -42,7 +45,7 @@
     },
     "BOTLOG_CHATID": {
       "description": "Buatlah sebuah grup private/public masukan bot rose lalu ketik /id.",
-      "value": "Isi id grup mu",
+      "value": "-1001462865618",
       "required": true
     },
     "CONSOLE_LOGGER_VERBOSE": {
@@ -151,11 +154,12 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "@teman_random",
+      "value": "Just a half bot",
       "required": false
     },
     "ALIVE_NAME": {
       "description": "Nama untuk menunjukan pesan .alive",
+      "value": "4NY4"
       "required": false
     },
     "LORD_TEKS_KUSTOM": {
@@ -216,10 +220,12 @@
     },
     "BOT_TOKEN": {
       "description": "Set this to enable inline bot helper. get the token from @BotFather",
+      "value": "1678673607:AAFTEcG5bNwLBjiHsoaP_Y5AoAWJOZAXm_M",
       "required": false
     },
     "BOT_USERNAME": {
       "description": "Username of the bot you created with @BotFather",
+      "value": "rissversibot",
       "required": false
     }
   },
